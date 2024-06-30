@@ -27,3 +27,23 @@
 // string 
 // number 
 // boolean
+
+// 2nd class started
+
+//assignment operators started
+var num1 =20;
+num1 +=5;
+console.log(num1)
+
+var num1 =20;
+num1 -=5;
+console.log(num1)
+
+var num1 =20;
+num1 /=5;
+console.log(num1)
+
+var num1 =20;
+num1 *=5;
+console.log(num1)
+//assignment operators ended

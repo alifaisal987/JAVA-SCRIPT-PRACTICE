@@ -2,7 +2,7 @@ console.log("hello javascript");
 var username = 'ali';
 console.log(username);
 
-// alert ('ali');
+alert ('ali');
 
 console.log(2+2);
 
